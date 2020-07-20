@@ -41,6 +41,7 @@ public class Funcionario {
     }
     
     public double calculaRegra() {
+    	//Isso confita com encapsulamento pois tem chamdas encadeadas -> Lei de Demeter
     	return getCargo().getRegra().calcula(this);
     }
 
