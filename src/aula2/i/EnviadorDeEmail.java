@@ -1,4 +1,4 @@
-package aula2.o;
+package aula2.i;
 
 public class EnviadorDeEmail implements AcaoPosNota{
 	public void executaAcao(NotaFiscal nf) {

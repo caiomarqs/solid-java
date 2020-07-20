@@ -4,7 +4,7 @@ O solid vem para desacoplar as funcinalidade de um ponto central, essa estrategi
 
 A implementação de um observer notifica cada classe que executa uma ação no meu sistema, assim é possivel ter um acoplamento a uma interface que gerencia as classe a baixo.
 
-S.O.L.I.D -> O: Observer
+S.O.L.I.D -> I: Inteface Segregation (acoplamento estavel)
 
 #### Periculosidade de acoplamentos
 
